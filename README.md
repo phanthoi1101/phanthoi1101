@@ -1,16 +1,15 @@
-## Hi there 👋
+💫 WELCOME TO MY PAGE! 👋
 
-<!--
-**phanthoi1101/phanthoi1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+Hi there! I'm **Canh Thoi Phan**, a final-year student at **Hue University of Sciences**, majoring in **Information Technology**.  
+I have a deep interest in **software development**, especially in **backend technologies**. I enjoy learning new frameworks, optimizing performance, and solving complex problems through coding.
 
-Here are some ideas to get you started:
+## 📬 Contact Me
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current Focus
+I’m currently diving deep into **advanced backend development** to sharpen my skills.  
+I'm actively seeking **internship opportunities** where I can contribute, gain real-world experience, and grow professionally.
+
+🚀 **Let's connect and build something amazing together!**
